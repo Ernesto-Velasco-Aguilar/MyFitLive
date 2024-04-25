@@ -2,7 +2,6 @@
 Proyecto Grupal MyFitLive BBDD 
 
 Por Ernesto Velasco Aguilar
-<br>
+<br></br>
 Alex Palacios
-<br>
 Eduard Macesanu
